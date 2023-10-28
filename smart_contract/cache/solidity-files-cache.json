@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\eyada\\Downloads\\dalto-main\\dalto-main\\smart_contract\\contracts\\Transactions.sol": {
+      "lastModificationDate": 1698488731741,
+      "contentHash": "d4cfeb8cd635cd2fbc1b23b1da415ecc",
+      "sourceName": "contracts/Transactions.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Transactions"
+      ]
+    }
+  }
+}
